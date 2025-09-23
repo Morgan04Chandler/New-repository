@@ -5,9 +5,9 @@ b = int(input ("Enter b: "))
 while (b <= 0):
     b = int(input ("Enter b greater than zero: "))
 if a < b:
-    r = (a / b + 1)
+    r = a / b + 1
 elif a == b:
     r = -5
 else:
-    r = a * b - 5
+    r = (a * b - 5) / a
 print("Result: " , r)
