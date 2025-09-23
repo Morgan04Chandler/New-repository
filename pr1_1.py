@@ -7,7 +7,8 @@ while (b <= 0):
 if a < b:
     r = a / b + 1
 elif a == b:
-    r = -5
+    r = -1
 else:
     r = (a * b - 5) / a
 print("Result: " , r)
+
