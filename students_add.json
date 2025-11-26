@@ -1,0 +1,122 @@
+[
+    {
+        "Surname": "Щербань",
+        "Name": "Дарія",
+        "Patronymic": "Миколаївна",
+        "Birth": {
+            "year": 2006,
+            "month": 3,
+            "day": 30
+        },
+        "Sex": "F",
+        "Additional lesson": "Танці"
+    },
+    {
+        "Surname": "Бачиш",
+        "Name": "Павло",
+        "Patronymic": "Геннадійович",
+        "Birth": {
+            "year": 2007,
+            "month": 10,
+            "day": 21
+        },
+        "Sex": "M",
+        "Additional lesson": "Спорт"
+    },
+    {
+        "Surname": "Козинець",
+        "Name": "Володимир",
+        "Patronymic": "Андрійович",
+        "Birth": {
+            "year": 2007,
+            "month": 6,
+            "day": 10
+        },
+        "Sex": "M",
+        "Additional lesson": "Програмування"
+    },
+    {
+        "Surname": "Гиренко",
+        "Name": "Ілля",
+        "Patronymic": "Романович",
+        "Birth": {
+            "year": 2006,
+            "month": 11,
+            "day": 2
+        },
+        "Sex": "M",
+        "Additional lesson": "Спорт"
+    },
+    {
+        "Surname": "Сагайдак",
+        "Name": "Богдан",
+        "Patronymic": "Андрійович",
+        "Birth": {
+            "year": 2007,
+            "month": 9,
+            "day": 13
+        },
+        "Sex": "M",
+        "Additional lesson": "Програмування"
+    },
+    {
+        "Surname": "Мартиненко",
+        "Name": "Олександр",
+        "Patronymic": "Володимирович",
+        "Birth": {
+            "year": 2006,
+            "month": 5,
+            "day": 24
+        },
+        "Sex": "M",
+        "Additional lesson": "Спорт"
+    },
+    {
+        "Surname": "Репін",
+        "Name": "Данііл",
+        "Patronymic": "Вікторович",
+        "Birth": {
+            "year": 2006,
+            "month": 7,
+            "day": 25
+        },
+        "Sex": "M",
+        "Additional lesson": "Спорт"
+    },
+    {
+        "Surname": "Голишев",
+        "Name": "Артем",
+        "Patronymic": "Антонович",
+        "Birth": {
+            "year": 2007,
+            "month": 6,
+            "day": 30
+        },
+        "Sex": "M",
+        "Additional lesson": "Програмування"
+    },
+    {
+        "Surname": "Шкурат",
+        "Name": "Дар'я",
+        "Patronymic": "Андріївна",
+        "Birth": {
+            "year": 2007,
+            "month": 11,
+            "day": 2
+        },
+        "Sex": "F",
+        "Additional lesson": "Спів"
+    },
+    {
+        "Surname": "Біла",
+        "Name": "Єлизавета",
+        "Patronymic": "Сергіївна",
+        "Birth": {
+            "year": 2007,
+            "month": 6,
+            "day": 11
+        },
+        "Sex": "F",
+        "Additional lesson": "Спів"
+    }
+]
